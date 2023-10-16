@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Statistics | Academic</title>
-    <link>Jingwen99.github.io/tags/financial-statistics/</link>
-      <atom:link href="Jingwen99.github.io/tags/financial-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jingwen99.github.io/tags/financial-statistics/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/financial-statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Financial Statistics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Financial Statistics</title>
-      <link>Jingwen99.github.io/tags/financial-statistics/</link>
+      <link>https://Jingwen99.github.io/tags/financial-statistics/</link>
     </image>
     
     <item>
       <title>Transmission Mechanism of Geopolitical Risks on the Energy Market.</title>
-      <link>Jingwen99.github.io/project/geo/</link>
+      <link>https://Jingwen99.github.io/project/geo/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/geo/</guid>
+      <guid>https://Jingwen99.github.io/project/geo/</guid>
       <description>&lt;p&gt;Reviewed 80+ research papers and reports, gaining valuable insights into the crude oil market&#39;s geopolitical risk perspective.&lt;/p&gt;
 &lt;p&gt;Developed a pioneering two-stage approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze geopolitical risk transmission to the crude oil market.&lt;/p&gt;
 &lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Geopolitical Risks Diffusion in Energy Market:A Neural Network Perspective.</title>
-      <link>Jingwen99.github.io/project/ml/</link>
+      <link>https://Jingwen99.github.io/project/ml/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/ml/</guid>
+      <guid>https://Jingwen99.github.io/project/ml/</guid>
       <description>&lt;p&gt;Analyzed 20+ papers on financial systems from a complex network perspective, focusing on stability, risk contagion, and immunization.&lt;/p&gt;
 &lt;p&gt;Attempted to employ Graph Attention Network (GAT) to predict oil price, incorporating geopolitical factors for unique insights into the energy market dynamics.&lt;/p&gt;
 </description>

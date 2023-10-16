@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Methods | Academic</title>
-    <link>Jingwen99.github.io/tags/statistical-methods/</link>
-      <atom:link href="Jingwen99.github.io/tags/statistical-methods/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jingwen99.github.io/tags/statistical-methods/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/statistical-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistical Methods</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Statistical Methods</title>
-      <link>Jingwen99.github.io/tags/statistical-methods/</link>
+      <link>https://Jingwen99.github.io/tags/statistical-methods/</link>
     </image>
     
     <item>
       <title>Robust inference of mixed regression model based on non-convex penalty likelihood method.</title>
-      <link>Jingwen99.github.io/project/stamethod/</link>
+      <link>https://Jingwen99.github.io/project/stamethod/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/stamethod/</guid>
+      <guid>https://Jingwen99.github.io/project/stamethod/</guid>
       <description>&lt;p&gt;Developed a novel and robust logistic regression method by introducing a mean-shift parameter, improving predictive performance significantly.&lt;/p&gt;
 &lt;p&gt;Assisted to design an innovative iteration-based threshold embedded [Θ-IPOD] algorithm for concurrent outlier detection and robust parameter estimation.&lt;/p&gt;
 &lt;p&gt;Identified key factors impacting consumer decision-making, including gender, recommendations, and web celebrities&amp;rsquo; information quality.&lt;/p&gt;

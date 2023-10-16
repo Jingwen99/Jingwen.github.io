@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>Jingwen99.github.io/</link>
-      <atom:link href="Jingwen99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jingwen99.github.io/</link>
+      <atom:link href="https://Jingwen99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>Jingwen99.github.io/</link>
+      <link>https://Jingwen99.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>Jingwen99.github.io/courses/example/example1/</link>
+      <link>https://Jingwen99.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>Jingwen99.github.io/courses/example/example1/</guid>
+      <guid>https://Jingwen99.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>Jingwen99.github.io/courses/example/example2/</link>
+      <link>https://Jingwen99.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>Jingwen99.github.io/courses/example/example2/</guid>
+      <guid>https://Jingwen99.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>Jingwen99.github.io/talk/example/</link>
+      <link>https://Jingwen99.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/talk/example/</guid>
+      <guid>https://Jingwen99.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -76,9 +76,9 @@
     
     <item>
       <title>The Ripple Effects of Granting Status Awards on Coauthors.</title>
-      <link>Jingwen99.github.io/project/external-project/</link>
+      <link>https://Jingwen99.github.io/project/external-project/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/external-project/</guid>
+      <guid>https://Jingwen99.github.io/project/external-project/</guid>
       <description>&lt;p&gt;Reviewed relevant research on collaborative networks of scientists, focusing on the status spillovers:
 the effect of granting status awards on coauthors.&lt;/p&gt;
 &lt;p&gt;Matched 7 million data related to the publications and citations of prize winners and their
@@ -90,9 +90,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Transmission Mechanism of Geopolitical Risks on the Energy Market.</title>
-      <link>Jingwen99.github.io/project/geo/</link>
+      <link>https://Jingwen99.github.io/project/geo/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/geo/</guid>
+      <guid>https://Jingwen99.github.io/project/geo/</guid>
       <description>&lt;p&gt;Reviewed 80+ research papers and reports, gaining valuable insights into the crude oil market&#39;s geopolitical risk perspective.&lt;/p&gt;
 &lt;p&gt;Developed a pioneering two-stage approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze geopolitical risk transmission to the crude oil market.&lt;/p&gt;
 &lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media.&lt;/p&gt;
@@ -103,9 +103,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Transmission mechanisms of geopolitical risks to the crude oil market -- A pioneering two-stage geopolitical risk analysis approach</title>
-      <link>Jingwen99.github.io/publication/conference-paper/</link>
+      <link>https://Jingwen99.github.io/publication/conference-paper/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/publication/conference-paper/</guid>
+      <guid>https://Jingwen99.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -122,9 +122,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Geopolitical Risks Diffusion in Energy Market:A Neural Network Perspective.</title>
-      <link>Jingwen99.github.io/project/ml/</link>
+      <link>https://Jingwen99.github.io/project/ml/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/ml/</guid>
+      <guid>https://Jingwen99.github.io/project/ml/</guid>
       <description>&lt;p&gt;Analyzed 20+ papers on financial systems from a complex network perspective, focusing on stability, risk contagion, and immunization.&lt;/p&gt;
 &lt;p&gt;Attempted to employ Graph Attention Network (GAT) to predict oil price, incorporating geopolitical factors for unique insights into the energy market dynamics.&lt;/p&gt;
 </description>
@@ -132,9 +132,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Application of Game Theory in Environmental Economics.</title>
-      <link>Jingwen99.github.io/project/game-theory/</link>
+      <link>https://Jingwen99.github.io/project/game-theory/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/game-theory/</guid>
+      <guid>https://Jingwen99.github.io/project/game-theory/</guid>
       <description>&lt;p&gt;Reviewed 20+ papers on evolutionary games, behavioral games, multistage games, and game-theoretic dynamics applied to low-carbon strategies, energy trading, and global climate action, informing innovative frameworks for sustainable practices.&lt;/p&gt;
 &lt;p&gt;Analyzed the stability of climate coalitions and environmental agreements using game theory, revealing the vital role of international cooperation in mitigating climate change.&lt;/p&gt;
 </description>
@@ -142,9 +142,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Management of Energy Systems for Sustainable Development.</title>
-      <link>Jingwen99.github.io/project/energy/</link>
+      <link>https://Jingwen99.github.io/project/energy/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/energy/</guid>
+      <guid>https://Jingwen99.github.io/project/energy/</guid>
       <description>&lt;p&gt;Conducted in-depth review of 20+ papers &amp;amp; reports (e.g., WB, IPCC, IMF) on circular economy, energy transition, international energy policy, net zero strategy, and sustainable development.&lt;/p&gt;
 &lt;p&gt;Analyzed green finance&#39;s role in driving renewable energy investment &amp;amp; authored insightful essay on energy transition opportunities &amp;amp; threats, providing recommendations for stakeholders.&lt;/p&gt;
 </description>
@@ -152,9 +152,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Robust inference of mixed regression model based on non-convex penalty likelihood method.</title>
-      <link>Jingwen99.github.io/project/stamethod/</link>
+      <link>https://Jingwen99.github.io/project/stamethod/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/project/stamethod/</guid>
+      <guid>https://Jingwen99.github.io/project/stamethod/</guid>
       <description>&lt;p&gt;Developed a novel and robust logistic regression method by introducing a mean-shift parameter, improving predictive performance significantly.&lt;/p&gt;
 &lt;p&gt;Assisted to design an innovative iteration-based threshold embedded [Θ-IPOD] algorithm for concurrent outlier detection and robust parameter estimation.&lt;/p&gt;
 &lt;p&gt;Identified key factors impacting consumer decision-making, including gender, recommendations, and web celebrities&amp;rsquo; information quality.&lt;/p&gt;
@@ -164,9 +164,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Robust Logistic Regression Model and Its Empirical Results Based on Nonconvex Penalized Regression</title>
-      <link>Jingwen99.github.io/publication/journal-article/</link>
+      <link>https://Jingwen99.github.io/publication/journal-article/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/publication/journal-article/</guid>
+      <guid>https://Jingwen99.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -183,9 +183,9 @@ coauthors.&lt;/p&gt;
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>Jingwen99.github.io/post/writing-technical-content/</link>
+      <link>https://Jingwen99.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/post/writing-technical-content/</guid>
+      <guid>https://Jingwen99.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -400,9 +400,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>Jingwen99.github.io/publication/preprint/</link>
+      <link>https://Jingwen99.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/publication/preprint/</guid>
+      <guid>https://Jingwen99.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
@@ -414,9 +414,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>Jingwen99.github.io/post/jupyter/</link>
+      <link>https://Jingwen99.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/post/jupyter/</guid>
+      <guid>https://Jingwen99.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -458,9 +458,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>Jingwen99.github.io/slides/example/</link>
+      <link>https://Jingwen99.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/slides/example/</guid>
+      <guid>https://Jingwen99.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -586,27 +586,27 @@ Three
     
     <item>
       <title>Privacy Policy</title>
-      <link>Jingwen99.github.io/privacy/</link>
+      <link>https://Jingwen99.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>Jingwen99.github.io/privacy/</guid>
+      <guid>https://Jingwen99.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>Jingwen99.github.io/terms/</link>
+      <link>https://Jingwen99.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>Jingwen99.github.io/terms/</guid>
+      <guid>https://Jingwen99.github.io/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>Jingwen99.github.io/post/getting-started/</link>
+      <link>https://Jingwen99.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>Jingwen99.github.io/post/getting-started/</guid>
+      <guid>https://Jingwen99.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
