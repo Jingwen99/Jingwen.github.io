@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>Jingwen99.github.io/authors/</link>
+      <atom:link href="Jingwen99.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>Jingwen99.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>Jingwen99.github.io/authors/admin/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to my site!
+I&#39;m Jingwen Jiao, a master&#39;s degree candidate in Statistics from University of Electronic Science and Technology of China (UESTC). I am currently a visiting student in the Department of Statistics and Data Science at Southern University of Science and Technology (SUS Tech). I received the B.Sc. degree in Statistics from the School of Statistics and Data Science at Jiangxi University of Finance and Economics in 2021(rank 1/54). My research interests include network science, statistics, and financial risk management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Juan Zhang</title>
+      <link>Jingwen99.github.io/authors/juan-zhang/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/juan-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun-Ping Yin</title>
+      <link>Jingwen99.github.io/authors/jun-ping-yin/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/jun-ping-yin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping-Feng Xu</title>
+      <link>Jingwen99.github.io/authors/ping-feng-xu/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/ping-feng-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Liu</title>
+      <link>Jingwen99.github.io/authors/yuan-liu/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/yuan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chun Yu</title>
+      <link>Jingwen99.github.io/authors/chun-yu/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/authors/chun-yu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

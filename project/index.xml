@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>Jingwen99.github.io/project/</link>
+      <atom:link href="Jingwen99.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>Jingwen99.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>The Ripple Effects of Granting Status Awards on Coauthors.</title>
+      <link>Jingwen99.github.io/project/external-project/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;Reviewed relevant research on collaborative networks of scientists, focusing on the status spillovers:
+the effect of granting status awards on coauthors.&lt;/p&gt;
+&lt;p&gt;Matched 7 million data related to the publications and citations of prize winners and their
+coauthors.&lt;/p&gt;
+&lt;p&gt;Investigated the impact of prize on the citation rates of both winner and their coauthors&amp;rsquo; articles.&lt;/p&gt;
+&lt;p&gt;Explored the impact of awards prestige, awarded fields, award year, publication year, gender, and age of winners on citation changes for winners and coauthors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transmission Mechanism of Geopolitical Risks on the Energy Market.</title>
+      <link>Jingwen99.github.io/project/geo/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/geo/</guid>
+      <description>&lt;p&gt;Reviewed 80+ research papers and reports, gaining valuable insights into the crude oil market&#39;s geopolitical risk perspective.&lt;/p&gt;
+&lt;p&gt;Developed a pioneering two-stage approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze geopolitical risk transmission to the crude oil market.&lt;/p&gt;
+&lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media.&lt;/p&gt;
+&lt;p&gt;Identified two distinct geopolitical transmission paths-speculative behavior and economic activity&amp;ndash;to enhance energy-related decision-making.&lt;/p&gt;
+&lt;p&gt;Authored the paper &amp;ldquo;Transmission Mechanisms of Geopolitical Risks to the Crude Oil Market-a pioneering two-stage geopolitical risk analysis approach,&amp;rdquo; as the first author.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geopolitical Risks Diffusion in Energy Market:A Neural Network Perspective.</title>
+      <link>Jingwen99.github.io/project/ml/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/ml/</guid>
+      <description>&lt;p&gt;Analyzed 20+ papers on financial systems from a complex network perspective, focusing on stability, risk contagion, and immunization.&lt;/p&gt;
+&lt;p&gt;Attempted to employ Graph Attention Network (GAT) to predict oil price, incorporating geopolitical factors for unique insights into the energy market dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Game Theory in Environmental Economics.</title>
+      <link>Jingwen99.github.io/project/game-theory/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/game-theory/</guid>
+      <description>&lt;p&gt;Reviewed 20+ papers on evolutionary games, behavioral games, multistage games, and game-theoretic dynamics applied to low-carbon strategies, energy trading, and global climate action, informing innovative frameworks for sustainable practices.&lt;/p&gt;
+&lt;p&gt;Analyzed the stability of climate coalitions and environmental agreements using game theory, revealing the vital role of international cooperation in mitigating climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Management of Energy Systems for Sustainable Development.</title>
+      <link>Jingwen99.github.io/project/energy/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/energy/</guid>
+      <description>&lt;p&gt;Conducted in-depth review of 20+ papers &amp;amp; reports (e.g., WB, IPCC, IMF) on circular economy, energy transition, international energy policy, net zero strategy, and sustainable development.&lt;/p&gt;
+&lt;p&gt;Analyzed green finance&#39;s role in driving renewable energy investment &amp;amp; authored insightful essay on energy transition opportunities &amp;amp; threats, providing recommendations for stakeholders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust inference of mixed regression model based on non-convex penalty likelihood method.</title>
+      <link>Jingwen99.github.io/project/stamethod/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>Jingwen99.github.io/project/stamethod/</guid>
+      <description>&lt;p&gt;Developed a novel and robust logistic regression method by introducing a mean-shift parameter, improving predictive performance significantly.&lt;/p&gt;
+&lt;p&gt;Assisted to design an innovative iteration-based threshold embedded [Θ-IPOD] algorithm for concurrent outlier detection and robust parameter estimation.&lt;/p&gt;
+&lt;p&gt;Identified key factors impacting consumer decision-making, including gender, recommendations, and web celebrities&amp;rsquo; information quality.&lt;/p&gt;
+&lt;p&gt;Authored the paper &amp;ldquo;Robust Logistic Regression Model and Its Empirical Results Based on Nonconvex Penalized Regression&amp;rdquo; as first author.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
