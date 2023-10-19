@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Social Science | Homepage</title>
+    <link>https://Jingwen99.github.io/tags/computational-social-science/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Social Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Social Science</title>
+      <link>https://Jingwen99.github.io/tags/computational-social-science/</link>
+    </image>
+    
+    <item>
+      <title>The Effects of Awards on Collaborations.</title>
+      <link>https://Jingwen99.github.io/project/external-project/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;Reviewed relevant research on collaborative networks of scientists, focusing on the status spillovers: the effect of confering awards on collaborations.&lt;/p&gt;
+&lt;p&gt;Investigated the impact of confering awards on the citation rates of both winner and their coauthors&amp;rsquo; articles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
