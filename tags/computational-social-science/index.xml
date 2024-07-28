@@ -13,12 +13,29 @@
     </image>
     
     <item>
-      <title>The Effects of Awards on Collaborations.</title>
+      <title>Collective knowledge spillover chains of retraction across countries</title>
+      <link>https://Jingwen99.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Utilized bibliometric tools and data science techniques to study variations in the citation impacts across different countries, disciplines, reasons for retraction, open access or not, and institutions ranking (QS).&lt;/p&gt;
+&lt;p&gt;Applied complex network analysis to assess structural changes in the citation networks among nations before and after retractions, revealing dynamic adjustments in knowledge flows.&lt;/p&gt;
+&lt;p&gt;Utilized DID and Fixed Effect Regression methodologies to focus on analyzing the impact of retracted papers from China, and identified significant effects within the fields of CS, Engineering, Material Science, and Medicine.&lt;/p&gt;
+&lt;p&gt;Employed statistical methods and network analysis to investigate the effects of retractions on the previous publications of retracted authors, references within retracted papers, subsequent papers citing the retracted articles, and co-authors’ publications.&lt;/p&gt;
+&lt;p&gt;Contributed to policy-making by providing empirical evidence used to reform practices surrounding retractions, leading to more robust publication integrity protocols and increased accountability in scholarly communications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ripple Effects of Prizewinning in Science</title>
       <link>https://Jingwen99.github.io/project/external-project/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/external-project/</guid>
-      <description>&lt;p&gt;Reviewed relevant research on collaborative networks of scientists, focusing on the status spillovers: the effect of confering awards on collaborations.&lt;/p&gt;
-&lt;p&gt;Investigated the impact of confering awards on the citation rates of both winner and their coauthors&amp;rsquo; articles.&lt;/p&gt;
+      <description>&lt;p&gt;Investigated the spillover effects and Matthew effects of prizewinning on the citations of both winners and their coauthors&amp;rsquo; papers using fixed effect regression analysis techniques to isolate the effects of awards from other variables.&lt;/p&gt;
+&lt;p&gt;Matched 3 million data points related to the publications and citations of winners and their coauthors using SQL and Python for data manipulation and dynamic matching algorithms.&lt;/p&gt;
+&lt;p&gt;Identified factors influencing the prizewinning effect on winners and coauthors, including disciplines, award year, publication recency, and award age and winner’s gender by using polynomial regression.&lt;/p&gt;
+&lt;p&gt;Employed Difference-in-Differences (DID) method to analyze the individual treatment effect of prizewinning, utilizing Stata and R for statistical analysis to ensure robustness in the findings.&lt;/p&gt;
+&lt;p&gt;Analyzed the mediation effects of prizewinning on coauthors’ papers via winner-coauthor network ties, employing network analysis tools such as Gephi and Python&#39;s NetworkX library to visualize and quantify network changes.&lt;/p&gt;
+&lt;p&gt;Authored the paper &amp;ldquo;Ripple effects of prizewinning in science,&amp;rdquo; as the first author.&lt;/p&gt;
 </description>
     </item>
     

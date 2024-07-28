@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Homepage</title>
+    <link>https://Jingwen99.github.io/tags/statistics/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistics</title>
+      <link>https://Jingwen99.github.io/tags/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Robust inference of mixed regression model based on non-convex penalty likelihood method.</title>
+      <link>https://Jingwen99.github.io/project/stamethod/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/stamethod/</guid>
+      <description>&lt;p&gt;Developed a robust logistic regression method based on non-convex penalty regression by introducing a mean-shift parameter, improving predictive performance significantly,&lt;/p&gt;
+&lt;p&gt;Assisted to design an innovative iteration-based threshold embedded [Θ-IPOD] algorithm for concurrent outlier detection and robust parameter estimation.&lt;/p&gt;
+&lt;p&gt;Designed and administered a survey comprising 490 responses to investigate consumer purchasing tendencies and influencing factors within the influencer economy.&lt;/p&gt;
+&lt;p&gt;Explored factors affecting consumer decision-making in the influencer economy, including personal characteristics, awareness of influencers and their products, purchasing behavior, and factors considered during influencer recommendations.&lt;/p&gt;
+&lt;p&gt;Conducted an in-depth data analysis using backward stepwise regression to select relevant variables and robust logistic regression algorithms to assess factors influencing consumer purchase behavior regarding web celebrity products, focusing on Organization and Management.&lt;/p&gt;
+&lt;p&gt;Employed advanced statistical tools and R software to ensure the reliability and effectiveness of the data processing and analysis, demonstrating the robustness and efficacy of the methods in understanding the impact of the web celebrity economy on consumer behavior.&lt;/p&gt;
+&lt;p&gt;Co-authored the paper &amp;ldquo;基于非凸惩罚回归的稳健Logistic回归模型及其实证&amp;rdquo; as the lead author.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

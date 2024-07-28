@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Econometrics | Homepage</title>
+    <link>https://Jingwen99.github.io/tags/financial-econometrics/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/financial-econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Financial Econometrics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Financial Econometrics</title>
+      <link>https://Jingwen99.github.io/tags/financial-econometrics/</link>
+    </image>
+    
+    <item>
+      <title>Transmission Mechanism of Geopolitical Risks on the Energy Market.</title>
+      <link>https://Jingwen99.github.io/project/geo/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/geo/</guid>
+      <description>&lt;p&gt;Developed a two-stage geopolitical risk analysis approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze the transmission mechanisms of geopolitical risk to the oil market.&lt;/p&gt;
+&lt;p&gt;Collected oil-related data from Thomson Reuters, WIND, Federal Reserve Bank of St.Louis, and U.S. Energy Information Administration (EIA), enabling rapid collection and extraction of valid data.&lt;/p&gt;
+&lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media—including oil supply, demand, inventory, speculative behavior, and economic activity.&lt;/p&gt;
+&lt;p&gt;Demonstrated that speculative behavior intensifies during periods of elevated geopolitical risk, significantly impacting oil prices through fluctuations in market positions (long and short).&lt;/p&gt;
+&lt;p&gt;Identified that the predominant effect of geopolitical tensions is to drive up oil prices by dampening economic activity, establishing a critical pathway of influence.&lt;/p&gt;
+&lt;p&gt;Co-published the paper Transmission Mechanisms of Geopolitical Risks to the Crude Oil Market—a pioneering two-stage geopolitical risk analysis approach as the first author.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction for Dynamic Time Series of Oil Price</title>
+      <link>https://Jingwen99.github.io/project/ml/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/ml/</guid>
+      <description>&lt;p&gt;Utilized a combination of Random Forest, Decision Tree, Gradient Boosting Tree, and Graph Attention Network models within the conformal prediction framework to forecast oil prices. Incorporated geopolitical factors for enhanced insights into energy market dynamics.&lt;/p&gt;
+&lt;p&gt;Developed aggregation functions to integrate multiple predictions, facilitating statistical inference and the construction of prediction intervals for future oil prices, with an emphasis on managing uncertainty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -75,12 +75,48 @@
     </item>
     
     <item>
-      <title>The Effects of Awards on Collaborations.</title>
+      <title>Ripple Effects of Prizewinning in Science</title>
+      <link>https://Jingwen99.github.io/publication/conference-paper-1/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/publication/conference-paper-1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collective knowledge spillover chains of retraction across countries</title>
+      <link>https://Jingwen99.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Utilized bibliometric tools and data science techniques to study variations in the citation impacts across different countries, disciplines, reasons for retraction, open access or not, and institutions ranking (QS).&lt;/p&gt;
+&lt;p&gt;Applied complex network analysis to assess structural changes in the citation networks among nations before and after retractions, revealing dynamic adjustments in knowledge flows.&lt;/p&gt;
+&lt;p&gt;Utilized DID and Fixed Effect Regression methodologies to focus on analyzing the impact of retracted papers from China, and identified significant effects within the fields of CS, Engineering, Material Science, and Medicine.&lt;/p&gt;
+&lt;p&gt;Employed statistical methods and network analysis to investigate the effects of retractions on the previous publications of retracted authors, references within retracted papers, subsequent papers citing the retracted articles, and co-authors’ publications.&lt;/p&gt;
+&lt;p&gt;Contributed to policy-making by providing empirical evidence used to reform practices surrounding retractions, leading to more robust publication integrity protocols and increased accountability in scholarly communications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ripple Effects of Prizewinning in Science</title>
       <link>https://Jingwen99.github.io/project/external-project/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/external-project/</guid>
-      <description>&lt;p&gt;Reviewed relevant research on collaborative networks of scientists, focusing on the status spillovers: the effect of confering awards on collaborations.&lt;/p&gt;
-&lt;p&gt;Investigated the impact of confering awards on the citation rates of both winner and their coauthors&amp;rsquo; articles.&lt;/p&gt;
+      <description>&lt;p&gt;Investigated the spillover effects and Matthew effects of prizewinning on the citations of both winners and their coauthors&amp;rsquo; papers using fixed effect regression analysis techniques to isolate the effects of awards from other variables.&lt;/p&gt;
+&lt;p&gt;Matched 3 million data points related to the publications and citations of winners and their coauthors using SQL and Python for data manipulation and dynamic matching algorithms.&lt;/p&gt;
+&lt;p&gt;Identified factors influencing the prizewinning effect on winners and coauthors, including disciplines, award year, publication recency, and award age and winner’s gender by using polynomial regression.&lt;/p&gt;
+&lt;p&gt;Employed Difference-in-Differences (DID) method to analyze the individual treatment effect of prizewinning, utilizing Stata and R for statistical analysis to ensure robustness in the findings.&lt;/p&gt;
+&lt;p&gt;Analyzed the mediation effects of prizewinning on coauthors’ papers via winner-coauthor network ties, employing network analysis tools such as Gephi and Python&#39;s NetworkX library to visualize and quantify network changes.&lt;/p&gt;
+&lt;p&gt;Authored the paper &amp;ldquo;Ripple effects of prizewinning in science,&amp;rdquo; as the first author.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,11 +125,12 @@
       <link>https://Jingwen99.github.io/project/geo/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/geo/</guid>
-      <description>&lt;p&gt;Reviewed 80+ research papers and reports, gaining valuable insights into the crude oil market&#39;s geopolitical risk perspective.&lt;/p&gt;
-&lt;p&gt;Developed a pioneering two-stage approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze geopolitical risk transmission to the crude oil market.&lt;/p&gt;
-&lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media.&lt;/p&gt;
-&lt;p&gt;Identified two distinct geopolitical transmission paths-speculative behavior and economic activity&amp;ndash;to enhance energy-related decision-making.&lt;/p&gt;
-&lt;p&gt;Authored the paper &amp;ldquo;Transmission Mechanisms of Geopolitical Risks to the Crude Oil Market-a pioneering two-stage geopolitical risk analysis approach,&amp;rdquo; as the first author.&lt;/p&gt;
+      <description>&lt;p&gt;Developed a two-stage geopolitical risk analysis approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze the transmission mechanisms of geopolitical risk to the oil market.&lt;/p&gt;
+&lt;p&gt;Collected oil-related data from Thomson Reuters, WIND, Federal Reserve Bank of St.Louis, and U.S. Energy Information Administration (EIA), enabling rapid collection and extraction of valid data.&lt;/p&gt;
+&lt;p&gt;Utilized the time-varying parametric vector autoregressive (TVPVAR) model to demonstrate how geopolitical risk influences oil prices through various transmission paths, including micro and macro media—including oil supply, demand, inventory, speculative behavior, and economic activity.&lt;/p&gt;
+&lt;p&gt;Demonstrated that speculative behavior intensifies during periods of elevated geopolitical risk, significantly impacting oil prices through fluctuations in market positions (long and short).&lt;/p&gt;
+&lt;p&gt;Identified that the predominant effect of geopolitical tensions is to drive up oil prices by dampening economic activity, establishing a critical pathway of influence.&lt;/p&gt;
+&lt;p&gt;Co-published the paper Transmission Mechanisms of Geopolitical Risks to the Crude Oil Market—a pioneering two-stage geopolitical risk analysis approach as the first author.&lt;/p&gt;
 </description>
     </item>
     
@@ -117,22 +154,24 @@
     </item>
     
     <item>
-      <title>Geopolitical Risks Diffusion in Energy Market:A Neural Network Perspective.</title>
+      <title>Conformal Prediction for Dynamic Time Series of Oil Price</title>
       <link>https://Jingwen99.github.io/project/ml/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/ml/</guid>
-      <description>&lt;p&gt;Analyzed 20+ papers on financial systems from a complex network perspective, focusing on stability, risk contagion, and immunization.&lt;/p&gt;
-&lt;p&gt;Attempted to employ Graph Attention Network (GAT) to predict oil price, incorporating geopolitical factors for unique insights into the energy market dynamics.&lt;/p&gt;
+      <description>&lt;p&gt;Utilized a combination of Random Forest, Decision Tree, Gradient Boosting Tree, and Graph Attention Network models within the conformal prediction framework to forecast oil prices. Incorporated geopolitical factors for enhanced insights into energy market dynamics.&lt;/p&gt;
+&lt;p&gt;Developed aggregation functions to integrate multiple predictions, facilitating statistical inference and the construction of prediction intervals for future oil prices, with an emphasis on managing uncertainty.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Application of Game Theory in Environmental Economics.</title>
+      <title>Application of Game Theory and Network Science in Climate Change Analysis.</title>
       <link>https://Jingwen99.github.io/project/game-theory/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/game-theory/</guid>
-      <description>&lt;p&gt;Reviewed 20+ papers on evolutionary games, behavioral games, multistage games, and game-theoretic dynamics applied to low-carbon strategies, energy trading, and global climate action, informing innovative frameworks for sustainable practices.&lt;/p&gt;
-&lt;p&gt;Analyzed the stability of climate coalitions and environmental agreements using game theory, revealing the vital role of international cooperation in mitigating climate change.&lt;/p&gt;
+      <description>&lt;p&gt;Conducted a comprehensive review of over 20 scholarly papers focused on the application of evolutionary and behavioral game-theoretic models in developing strategies for low-carbon energy trading and enhancing global climate action.&lt;/p&gt;
+&lt;p&gt;Employed network science techniques to analyze the strategic interactions and commitment levels among countries in international climate change mitigation efforts, mapping complex networks to illustrate these relationships.&lt;/p&gt;
+&lt;p&gt;Developed data-driven frameworks to summarize how climate-related risks (both physical and transitional) propagate through financial markets, impacting credit, market, liquidity, and operational risks across different geographic regions.&lt;/p&gt;
+&lt;p&gt;Utilized system dynamics modeling to investigate the cascading effects of extreme climate events on economic growth within interconnected climate-social systems, highlighting the role of network analysis in understanding systemic vulnerabilities and response mechanisms.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,10 +190,13 @@
       <link>https://Jingwen99.github.io/project/stamethod/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/stamethod/</guid>
-      <description>&lt;p&gt;Developed a novel and robust logistic regression method by introducing a mean-shift parameter, improving predictive performance significantly.&lt;/p&gt;
+      <description>&lt;p&gt;Developed a robust logistic regression method based on non-convex penalty regression by introducing a mean-shift parameter, improving predictive performance significantly,&lt;/p&gt;
 &lt;p&gt;Assisted to design an innovative iteration-based threshold embedded [Θ-IPOD] algorithm for concurrent outlier detection and robust parameter estimation.&lt;/p&gt;
-&lt;p&gt;Identified key factors impacting consumer decision-making, including gender, recommendations, and web celebrities&amp;rsquo; information quality.&lt;/p&gt;
-&lt;p&gt;Authored the paper &amp;ldquo;Robust Logistic Regression Model and Its Empirical Results Based on Nonconvex Penalized Regression&amp;rdquo; as first author.&lt;/p&gt;
+&lt;p&gt;Designed and administered a survey comprising 490 responses to investigate consumer purchasing tendencies and influencing factors within the influencer economy.&lt;/p&gt;
+&lt;p&gt;Explored factors affecting consumer decision-making in the influencer economy, including personal characteristics, awareness of influencers and their products, purchasing behavior, and factors considered during influencer recommendations.&lt;/p&gt;
+&lt;p&gt;Conducted an in-depth data analysis using backward stepwise regression to select relevant variables and robust logistic regression algorithms to assess factors influencing consumer purchase behavior regarding web celebrity products, focusing on Organization and Management.&lt;/p&gt;
+&lt;p&gt;Employed advanced statistical tools and R software to ensure the reliability and effectiveness of the data processing and analysis, demonstrating the robustness and efficacy of the methods in understanding the impact of the web celebrity economy on consumer behavior.&lt;/p&gt;
+&lt;p&gt;Co-authored the paper &amp;ldquo;基于非凸惩罚回归的稳健Logistic回归模型及其实证&amp;rdquo; as the lead author.&lt;/p&gt;
 </description>
     </item>
     
@@ -391,20 +433,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://Jingwen99.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://Jingwen99.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
