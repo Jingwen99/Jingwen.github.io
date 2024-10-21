@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate Change | Homepage</title>
+    <link>https://Jingwen99.github.io/tags/climate-change/</link>
+      <atom:link href="https://Jingwen99.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <description>Climate Change</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Jingwen99.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Climate Change</title>
+      <link>https://Jingwen99.github.io/tags/climate-change/</link>
+    </image>
+    
+    <item>
+      <title>County-Level Climate Risk Index for Banking System Vulnerability</title>
+      <link>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Matched meteorological station data (temperature, precipitation, wind speed, SPEI) from year 2002-2022 to Chinese county boundaries within a set threshold&lt;/p&gt;
+&lt;p&gt;Utilized Inverse Distance Weighting (IDW) to calculate daily maximum and minimum temperatures, 20h-20h cumulative precipitation, maximum wind speed, and Standardized Precipitation Evapotranspiration Index (SPEI) for each county using ArcGIS, R, and Python&lt;/p&gt;
+&lt;p&gt;Assigned weights to different climate factors (# of consecutive extreme heat days, # of consecutive extreme cold days, # of rainstorm days, SPEI levels, # of tropical storm days) using Kolmogorov–Arnold Networks (KAN) and empirical methods to construct a county-level climate risk index&lt;/p&gt;
+&lt;p&gt;Assessed the vulnerability of banks to climate risks across different regions by evaluating their exposure, sensitivity, and adaptive capacity, following the framework established by the IPCC&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spillover Effects of Climate Physical Risk on Supply-chain Networks</title>
+      <link>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Investigated the climate risk impact on suppliers and customers and developed effective risk management strategies by constructing the C-Vine-Copula model&lt;/p&gt;
+&lt;p&gt;Fit the marginal distributions of climate variables and explored the tail dependence between climate risk factors affecting suppliers and the financial performance of customers in the supply-chain networks&lt;/p&gt;
+&lt;p&gt;Utilized the first-order network coupling and second-order network coupling index to analyze the impact of climate risk on the embeddedness of supply-chain networks, finding extreme high and low temperatures can increase the dispersion of customers within the supply-chain networks&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

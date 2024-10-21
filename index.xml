@@ -94,6 +94,29 @@
     </item>
     
     <item>
+      <title>County-Level Climate Risk Index for Banking System Vulnerability</title>
+      <link>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Matched meteorological station data (temperature, precipitation, wind speed, SPEI) from year 2002-2022 to Chinese county boundaries within a set threshold&lt;/p&gt;
+&lt;p&gt;Utilized Inverse Distance Weighting (IDW) to calculate daily maximum and minimum temperatures, 20h-20h cumulative precipitation, maximum wind speed, and Standardized Precipitation Evapotranspiration Index (SPEI) for each county using ArcGIS, R, and Python&lt;/p&gt;
+&lt;p&gt;Assigned weights to different climate factors (# of consecutive extreme heat days, # of consecutive extreme cold days, # of rainstorm days, SPEI levels, # of tropical storm days) using Kolmogorov–Arnold Networks (KAN) and empirical methods to construct a county-level climate risk index&lt;/p&gt;
+&lt;p&gt;Assessed the vulnerability of banks to climate risks across different regions by evaluating their exposure, sensitivity, and adaptive capacity, following the framework established by the IPCC&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spillover Effects of Climate Physical Risk on Supply-chain Networks</title>
+      <link>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Jingwen99.github.io/project/ml-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;Investigated the climate risk impact on suppliers and customers and developed effective risk management strategies by constructing the C-Vine-Copula model&lt;/p&gt;
+&lt;p&gt;Fit the marginal distributions of climate variables and explored the tail dependence between climate risk factors affecting suppliers and the financial performance of customers in the supply-chain networks&lt;/p&gt;
+&lt;p&gt;Utilized the first-order network coupling and second-order network coupling index to analyze the impact of climate risk on the embeddedness of supply-chain networks, finding extreme high and low temperatures can increase the dispersion of customers within the supply-chain networks&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Quantifying the multiscale side-effects of retraction across countries</title>
       <link>https://Jingwen99.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
@@ -123,7 +146,7 @@
     <item>
       <title>Transmission Mechanism of Geopolitical Risks on the Energy Market.</title>
       <link>https://Jingwen99.github.io/project/geo/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://Jingwen99.github.io/project/geo/</guid>
       <description>&lt;p&gt;Developed a two-stage geopolitical risk analysis approach, integrating statistics, econometrics, macroeconomics, and behavioral finance theories, to analyze the transmission mechanisms of geopolitical risk to the oil market.&lt;/p&gt;
 &lt;p&gt;Collected oil-related data from Thomson Reuters, WIND, Federal Reserve Bank of St.Louis, and U.S. Energy Information Administration (EIA), enabling rapid collection and extraction of valid data.&lt;/p&gt;
